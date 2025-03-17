@@ -1,0 +1,4 @@
+this is text file to test text loader1
+extend campain last original data2
+extend campain last original data3
+extend campain last original data4
